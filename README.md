@@ -1,4 +1,4 @@
-# ConnectingCurves
+# Name : ConnectingCurves
  A program that connects broken curves in AutoCAD drawings
 
 >## Dll Version 
@@ -9,10 +9,13 @@
 - ConnectingCurves.2017.dll : AutoCAD R2017
 - ConnectingCurves.2018.dll : AutoCAD R2018
 
->## 명령어
-- CCVS : 사용하면 떨어진 커브들을 연결해줍니다.
-- LS2A : 라인들을 호로 변경해 줍니다.
+>## Command
+- CCVS : Connect unconnected curves.
+- LS2A : Change lines to arcs.
 
->## 로딩방법
-- AutoCAD 프로그램을 구동합니다
-- netload 명령으로 버전에 맞는 DLL 파일을 선택합니다.
+>## Loading method
+- Run the AutoCAD program
+- Select the DLL file for your version with the netload command.
+
+>## blog
+- http://arx119.egloos.com/
