@@ -20,4 +20,4 @@
 >## blog
 - http://arx119.egloos.com/
 
-![Alt text](/images/connectingcurves.gif "LS2A")
+![Alt text](/avi/connectingcurves.gif "LS2A")
