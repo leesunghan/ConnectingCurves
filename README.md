@@ -21,3 +21,5 @@
 - http://arx119.egloos.com/
 
 ![Alt text](/avi/connectingcurves.gif "LS2A")
+
+![Alt text](/avi/connectingcurves01.gif "LS2A")
